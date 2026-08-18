@@ -1,0 +1,22 @@
+[
+    {
+        "image": "project2",
+        "name": "Cyber Security Project",
+        "category": "cybersecurity",
+        "desc": "Description of the project.",
+        "links": {
+            "view": "https://example.com",
+            "code": "https://github.com/"
+        }
+    },
+    {
+        "image": "PersonalPortfolio",
+        "name": "Web Development Project",
+        "category": "web",
+        "desc": "Description of the project.",
+        "links": {
+            "view": "https://example.com",
+            "code": "https://github.com/"
+        }
+    }
+]
